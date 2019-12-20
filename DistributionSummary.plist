@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARISES.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+				<key>dateExpires</key>
+				<string>14/10/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>AWSCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>AWSS3.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Charts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>LoopKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>LoopKitUI.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>429258CD02D8CFBA8D71657CB48F63AF1C9F29C8</string>
+						<key>dateExpires</key>
+						<string>14/10/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>ShareClient.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3HQG9T963Q</string>
+						<key>name</key>
+						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3HQG9T963Q.com.cbit.arises</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3HQG9T963Q</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>3HQG9T963Q.com.cbit.arises</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ARISES.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5d7e2133-33b3-4352-ab95-f4ea80e32244</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.cbit.arises</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3HQG9T963Q</string>
+				<key>name</key>
+				<string>Imperial College London (Institute of Biomedical Engineering)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
